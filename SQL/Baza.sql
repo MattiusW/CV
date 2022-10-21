@@ -12,7 +12,7 @@ SHOW TABLES;
 -- tworzenie tabeli klubowicz
 CREATE TABLE klubowicz
 (
-	id INT AUTO_INCREMENT PRIMARY KEY,
+    id INT AUTO_INCREMENT PRIMARY KEY,
     imie VARCHAR(20) NOT NULL,
     nazwisko VARCHAR(50) NOT NULL,
     email VARCHAR(255) NOT NULL,
@@ -33,7 +33,7 @@ LINES TERMINATED BY '\r\n'
 -- tworzenie tabeli klient
 CREATE TABLE klient
 (
-	id INT AUTO_INCREMENT PRIMARY KEY,
+    id INT AUTO_INCREMENT PRIMARY KEY,
     imie VARCHAR(20) NOT NULL,
     nazwisko VARCHAR(50) NOT NULL,
     email VARCHAR(255) NOT NULL,
@@ -54,7 +54,7 @@ LINES TERMINATED BY '\r\n'
 -- tworzenie tabeli magazyn
 CREATE TABLE magazyn
 (	
-	id_zam INT PRIMARY KEY,
+    id_zam INT PRIMARY KEY,
     produkt VARCHAR(50) NOT NULL,
     rodzaj VARCHAR(50) NOT NULL,
     cena DECIMAL(4,2) NOT NULL,
@@ -71,7 +71,7 @@ INSERT INTO magazyn VALUES(5, 'Karnet fitness', 'Karnety', 10, 100);
 -- tworzenie tabeli dostawca
 CREATE TABLE dostawca
 (
-	id INT PRIMARY KEY,
+    id INT PRIMARY KEY,
     nazwa VARCHAR(50) NOT NULL,
     miejscowosc VARCHAR(255) NOT NULL,
     kod VARCHAR (10) NOT NULL,
@@ -88,11 +88,11 @@ INSERT INTO dostawca VALUES (5, 'Karnetix', 'Egipt', '92-213', 3435356);
 -- tworzenie tabeli rejestracja
 CREATE TABLE rejestracja
 (
-	id_klubowicz INT,
+    id_klubowicz INT,
     id_klient INT,
     id_dostawca INT,
     id_zam INT,
-	FOREIGN KEY (id_klubowicz) REFERENCES klubowicz(id),
+    FOREIGN KEY (id_klubowicz) REFERENCES klubowicz(id),
     FOREIGN KEY (id_klient) REFERENCES klient(id),
     FOREIGN KEY (id_zam) REFERENCES magazyn(id_zam),
     FOREIGN KEY (id_dostawca) REFERENCES dostawca(id) 
