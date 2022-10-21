@@ -31,5 +31,5 @@ else:
     for question in questions["items"]:
         webbrowser.open_new_tab(question["link"]) #otwarcie linku za pomocą webrowser 
 
-#timestamp() czas liczony w sekundach od 1 stycznia 1970
+#timestamp() czas liczony w sekundach od 1 stycznia 1970.
 
