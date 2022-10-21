@@ -11,7 +11,7 @@ def main():
   #przykładowa macierz wygenerowana losowo
   macierz2 = [[random.randint(1,9) for i in range(3)] for j in range(3)]
   
-  print(macierz2) #wyświetlenie macierzy przed transponowaniem dla sprawdzenia
+  print(macierz2) #wyświetlenie losowej macierzy przed transponowaniem dla sprawdzenia
   print(transp(macierz))
   print(transp(macierz2)) #wyświetlnie macierzy na ekranie
 
@@ -26,4 +26,5 @@ def transp(M): #funkcja transponowania macierzy
 
   return T # zwrócenie macierzy
 
-main()
+if __name__ == "__main__":
+    main()
