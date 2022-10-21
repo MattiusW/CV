@@ -1,13 +1,6 @@
 CREATE DATABASE fitness; -- tworzenie bazy danych
 
-USE fitness;
-DROP TABLE klubowicz;
-DROP TABLE klient;
-DROP TABLE magazyn;
-DROP TABLE zamowienie;
-DROP TABLE rejestracja;
-DROP TABLE dostawca;
-SHOW TABLES;
+USE fitness; -- Użycie bazy danych
 
 -- tworzenie tabeli klubowicz
 CREATE TABLE klubowicz
