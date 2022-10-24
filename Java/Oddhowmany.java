@@ -13,7 +13,7 @@ public class Oddhowmany
         for (int i = 0; i < n; i++)
         {
             a = scanner.nextInt();
-            if (a % 2 != 0) // Check if value not give rest from division modulo
+            if (a % 2 != 0) // Check if value give rest from division modulo
             {
                 odd += 1; // Count once odd number
             }
