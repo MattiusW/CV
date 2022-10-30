@@ -23,7 +23,7 @@ def main():
   print(SaveFile)
 
   for element in SaveFile:
-    if element.islower() == False and element.isupper() == False: #Count not letter in poem
+    if element.islower() == False and element.isupper() == False: #Count sign in poem
       dictionary[element] = dictionary.get(element, 0) + 1 #Save result to dictionary
     else:
       continue
