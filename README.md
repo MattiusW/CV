@@ -26,3 +26,4 @@ Here, you’ll find projects in languages:
 - Bash command
 
 The projects come from various sources and I often use commentary for readability of the code.
+Thank You for Your time.
