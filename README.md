@@ -8,6 +8,7 @@ Zamieszczone tu projekty są w języku:
 - Java
 - Sql
 - Bash command
+
 W projektach zamieszczam komentarze aby były bardziej czytelniejsze.
 Życzę udanego przeglądania i dziękuje za czas poświęcony nad moim repozytorium.
 
@@ -23,4 +24,5 @@ Here, you’ll find projects in languages:
 - Java
 - Sql
 - Bash command
+
 The projects come from various sources and I often use commentary for readability of the code.
