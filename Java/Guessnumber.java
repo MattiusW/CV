@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Random; // Import random number method	
 import java.util.Scanner; // Import input by keyboard method
 
@@ -11,17 +12,24 @@ public class Guessnumber
 		String name = scanner.nextLine();
 		System.out.println("You have five chance to guess." + " " + "Good luck" + " " + name);
 		Random rand = new Random(); // Create random number object
-		int number;
+		int number = 1;
 		int guessNumber = rand.nextInt(20); // Set random number between 0 - 20
 		guessNumber += 1;   // Add 1 to the result to get a number from required range 1 - 20
-		// System.out.println(guessNumber); Test
+		//System.out.println(guessNumber); //Test
 		System.out.println("I'm thinking about number between 1 - 20. What is the number?");
 	   
 
 		for(int i = 0; i < 5; i++) // Set number of try
 		{
-			
-			number = scanner.nextInt(); // Input value
+			try
+			{
+			   number = scanner.nextInt();  // Try to input integer number
+			}
+			catch (InputMismatchException exception)
+    		{
+        		System.out.println("Input integers only.");  // catch error input value
+				break;
+    		}	
 
 			if(number > guessNumber)  // User number is big
 			{
