@@ -1,5 +1,5 @@
-import java.util.Random;
-import java.util.Scanner;
+import java.util.Random; // Import random number method	
+import java.util.Scanner; // Import input by keyboard method
 
 public class Guessnumber
 {
