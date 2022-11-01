@@ -10,10 +10,9 @@ public class Guessnumber
 	System.out.println("What is your name?");
 	String name = scanner.nextLine();
         System.out.println("You have five chance to guess." + " " + "Good luck" + " " + name);
-        Random rand = new Random();
-	int number = 1;
-	int guessNumber = rand.nextInt(20);
-        guessNumber += 1;   // Add 1 to the result to get a number from required range
+        Random rand = new Random(); // Create random number object
+	int guessNumber = rand.nextInt(20); // Set random number between 0 - 20
+        guessNumber += 1;   // Add 1 to the result to get a number from required range 1 - 20
 	//System.out.println(guessNumber); Test
 	System.out.println("I'm thinking about number between 1 - 20. What is the number?");
         
