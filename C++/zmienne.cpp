@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-
+    const string nazwa = "To jest stała zmienna"; // nie da się jej nadpisać 
     int a = 40, b = 10, c = 50; 
     short int d;  // kiedy zmienna nie zostanie przypisana zostaje jej nadana losowa wartość
 
