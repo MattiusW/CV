@@ -21,5 +21,4 @@ int main()
     }
     else
 	 cout << a << " jest większe od " << b << endl;
-
 }
