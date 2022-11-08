@@ -28,7 +28,7 @@ int main()
 	     cout << "it is not d" << endl;
         case 'e':
 	     cout << "it is not e" << endl;
-        case 'k':
+        case 107:
 	     cout << "it is k" << endl;
 	     break;
         case 'f':
