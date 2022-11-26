@@ -52,11 +52,11 @@ class Punkt
     @Override
     public boolean equals(Object o)
     {   
-        if (this == o)
-            return true;
-        else if (o == null)
+        if (this == o)                                             
+            return true;            
+        else if (o == null) 
             return false;
-        else if (this.getClass() != o.getClass())
+        else if (this.getClass() != o.getClass())       
             return false;
         
         Punkt przyslany = (Punkt)o;
@@ -64,7 +64,7 @@ class Punkt
         return this.x == przyslany.x && this.y == przyslany.y;
     }
     @Override
-    public String toString()
+    public String toString()  //Wypisanie wartości, bez wywołania metod 
     {
         return getX() + " " + getY();
     }
