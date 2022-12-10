@@ -1,7 +1,7 @@
 #include <stdio.h> 
 #include <stdlib.h>
 
-void zamiana(int *zamiana) //deklarowanie wskaznika
+void podmiana(int *zamiana) //deklarowanie wskaznika
 {
     *zamiana = 10; //odwolanie sie do wartosci ze wskaznika aby nie dzialac na adresie
 }
@@ -9,7 +9,7 @@ void zamiana(int *zamiana) //deklarowanie wskaznika
 int main()
 {
     int liczba = 5;
-    zamiana(&liczba); //Wyslanie adresu do funkcji aby nie dzialac na kopii
-    printf("%d", liczba);
+    podmiana(&liczba); //Wyslanie adresu do funkcji aby nie dzialac na kopii
+    printf("%d\n", liczba);
     return 0;
 }
