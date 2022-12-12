@@ -1,7 +1,11 @@
 #include <stdio.h> 
 #include <stdlib.h>
 
+<<<<<<< HEAD
 void zamianaInt(int *zamiana) //deklarowanie wskaznika
+=======
+void podmiana(int *zamiana) //deklarowanie wskaznika
+>>>>>>> 59d3a60f14d62eda60568577061e05fcb4e368cb
 {
     *zamiana = 10; //odwolanie sie do wartosci ze wskaznika aby nie dzialac na adresie
 }
@@ -42,6 +46,7 @@ void zamianaTekstu(char *tekst)
 int main()
 {
     int liczba = 5;
+<<<<<<< HEAD
     zamianaInt(&liczba); //Wyslanie adresu do funkcji aby nie dzialac na kopii
     printf("%d\n", liczba);
     zamianaTekstu(tekstDoZamiany);
@@ -49,3 +54,9 @@ int main()
     return 0;
 }
 
+=======
+    podmiana(&liczba); //Wyslanie adresu do funkcji aby nie dzialac na kopii
+    printf("%d\n", liczba);
+    return 0;
+}
+>>>>>>> 59d3a60f14d62eda60568577061e05fcb4e368cb
