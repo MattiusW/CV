@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-
 int main()
 {   
     int wybor = 0;
@@ -12,8 +11,6 @@ int main()
     int enemy = rand() % 3;
     //printf("Enemy random: %d\n", enemy);
     scanf("%d", &wybor);  //nie pisac nic w funkcji scanf
-
-    
 
     if(wybor == 0 || wybor == 1 || wybor == 2)
     {
@@ -32,13 +29,12 @@ int main()
             printf("Przegrałeś masz nożyce a ja wybrałem: %d - kamień!", enemy);
         else if(wybor == 2 && enemy == 1)
             printf("Wygrałeś masz nożyce a ja wybrałem: %d - papier!", enemy);
-
     }
+    
     else
     {
         printf("Zły wybor! Wybrałeś: %d Przegrałeś haha!\n", wybor);
     }
-    
     
     return 0;
 }
