@@ -3,8 +3,8 @@
 
 int main()
 {
-    printf("Wynik: %d\n", 24 << 5); // przesuniecie liczby binarnej o 4 miejsc 
-    //printf("Wynik: %d\n", 1 >> 1); // przesuniecie liczby binarnej o 1 miejsce 
+    printf("Wynik: %d\n", 24 << 5); // przesuniecie liczby binarnej o dana liczbe miejsc 
+    //printf("Wynik: %d\n", 1 >> 1); // przesuniecie liczby binarnej o dana liczbe miejsce 
     //printf("Wynik: %d\n", 11 & 9);
     //printf("Wynik: %d\n", 11 | 9);
     //printf("Wynik: %d\n", 11 ^ 9);
