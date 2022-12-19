@@ -5,11 +5,13 @@
 char name[20];
 char secondName[20];
 char guess[3][20] = {"Cat", "Dog", "Fish"};
+#define napis "Strings is same"
 
 void ifStringIsEquel(char *str1, char *str2)
 {
     if(stricmp(str1, str2) == 0)
-        printf("Strings equal\n");
+        //printf("Strings equal\n");
+        return printf(napis);
     else
         printf("Strings unequal\n");
 }
