@@ -1,0 +1,15 @@
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\bin\Debug\net6.0\ConsolePierwszyProjektCs.exe
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\bin\Debug\net6.0\ConsolePierwszyProjektCs.deps.json
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\bin\Debug\net6.0\ConsolePierwszyProjektCs.runtimeconfig.json
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\bin\Debug\net6.0\ConsolePierwszyProjektCs.dll
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\bin\Debug\net6.0\ConsolePierwszyProjektCs.pdb
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\obj\Debug\net6.0\ConsolePierwszyProjektCs.csproj.AssemblyReference.cache
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\obj\Debug\net6.0\ConsolePierwszyProjektCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\obj\Debug\net6.0\ConsolePierwszyProjektCs.AssemblyInfoInputs.cache
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\obj\Debug\net6.0\ConsolePierwszyProjektCs.AssemblyInfo.cs
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\obj\Debug\net6.0\ConsolePierwszyProjektCs.csproj.CoreCompileInputs.cache
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\obj\Debug\net6.0\ConsolePierwszyProjektCs.dll
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\obj\Debug\net6.0\refint\ConsolePierwszyProjektCs.dll
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\obj\Debug\net6.0\ConsolePierwszyProjektCs.pdb
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\obj\Debug\net6.0\ConsolePierwszyProjektCs.genruntimeconfig.cache
+C:\Git\CV\C#\Projects_VS\ConsolePierwszyProjektCs\ConsolePierwszyProjektCs\obj\Debug\net6.0\ref\ConsolePierwszyProjektCs.dll
