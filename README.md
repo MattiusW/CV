@@ -7,6 +7,7 @@ Zamieszczone tu projekty są w języku:
 - Python
 - Java
 - C
+- C#
 - C++
 - Sql
 - Bash command
@@ -24,7 +25,8 @@ I’m currently in my second year of university studying Computer Science.
 Here, you’ll find projects in languages:
 - Python
 - Java
-- C++
+- C
+- C#
 - C++
 - Sql
 - Bash command
