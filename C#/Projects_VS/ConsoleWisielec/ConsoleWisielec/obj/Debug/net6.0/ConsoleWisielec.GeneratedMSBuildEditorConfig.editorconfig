@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ConsoleHello
-build_property.ProjectDir = c:\Git\CV\C#\Projects_VS\ConsoleApp1\ConsoleApp1\
+build_property.RootNamespace = ConsoleWisielec
+build_property.ProjectDir = C:\Git\CV\C#\Projects_VS\ConsoleWisielec\ConsoleWisielec\
