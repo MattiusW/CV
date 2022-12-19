@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C#"
+    "\\C#",
+    "\\C#\\Projects_VS",
+    "\\C#\\Projects_VS\\ConsoleKamienPapierNozyce",
+    "\\C#\\Projects_VS\\ConsoleKamienPapierNozyce\\ConsoleKamienPapierNozyce",
+    "\\C#\\Projects_VS\\ConsolePierwszyProjektCs",
+    "\\C#\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs"
   ],
-  "SelectedNode": "\\C#\\HelloCs.cs",
+  "SelectedNode": "\\C#\\Projects_VS\\ConsoleKamienPapierNozyce\\ConsoleKamienPapierNozyce\\ConsoleKamienPapierNozyce.csproj",
   "PreviewInSolutionExplorer": false
 }

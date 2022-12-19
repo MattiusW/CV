@@ -1,0 +1,15 @@
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\bin\Debug\net6.0\ConsoleKamienPapierNozyce.exe
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\bin\Debug\net6.0\ConsoleKamienPapierNozyce.deps.json
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\bin\Debug\net6.0\ConsoleKamienPapierNozyce.runtimeconfig.json
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\bin\Debug\net6.0\ConsoleKamienPapierNozyce.dll
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\bin\Debug\net6.0\ConsoleKamienPapierNozyce.pdb
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\obj\Debug\net6.0\ConsoleKamienPapierNozyce.csproj.AssemblyReference.cache
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\obj\Debug\net6.0\ConsoleKamienPapierNozyce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\obj\Debug\net6.0\ConsoleKamienPapierNozyce.AssemblyInfoInputs.cache
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\obj\Debug\net6.0\ConsoleKamienPapierNozyce.AssemblyInfo.cs
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\obj\Debug\net6.0\ConsoleKamienPapierNozyce.csproj.CoreCompileInputs.cache
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\obj\Debug\net6.0\ConsoleKamienPapierNozyce.dll
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\obj\Debug\net6.0\refint\ConsoleKamienPapierNozyce.dll
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\obj\Debug\net6.0\ConsoleKamienPapierNozyce.pdb
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\obj\Debug\net6.0\ConsoleKamienPapierNozyce.genruntimeconfig.cache
+C:\Git\CV\C#\Projects_VS\ConsoleKamienPapierNozyce\ConsoleKamienPapierNozyce\obj\Debug\net6.0\ref\ConsoleKamienPapierNozyce.dll

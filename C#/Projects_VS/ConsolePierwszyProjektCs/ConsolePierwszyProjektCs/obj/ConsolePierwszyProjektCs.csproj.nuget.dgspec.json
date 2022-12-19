@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\CV\\C#\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs.csproj": {}
+    "C:\\Git\\CV\\CS\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs.csproj": {}
   },
   "projects": {
-    "C:\\Git\\CV\\C#\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs.csproj": {
+    "C:\\Git\\CV\\CS\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\CV\\C#\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs.csproj",
+        "projectUniqueName": "C:\\Git\\CV\\CS\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs.csproj",
         "projectName": "ConsolePierwszyProjektCs",
-        "projectPath": "C:\\Git\\CV\\C#\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs.csproj",
+        "projectPath": "C:\\Git\\CV\\CS\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs.csproj",
         "packagesPath": "C:\\Users\\Mattius\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\CV\\C#\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs\\obj\\",
+        "outputPath": "C:\\Git\\CV\\CS\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

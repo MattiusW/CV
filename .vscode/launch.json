@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "classinside.Main",
+            "projectName": "CV_8c5744a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "wisielec.Main",
             "projectName": "CV_8c5744a8"
         }
