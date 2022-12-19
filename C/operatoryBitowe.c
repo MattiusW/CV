@@ -3,11 +3,12 @@
 
 int main()
 {
-    printf("Wynik: %d\n", 24 << 5); // przesuniecie liczby binarnej o dana liczbe miejsc 
-    //printf("Wynik: %d\n", 1 >> 1); // przesuniecie liczby binarnej o dana liczbe miejsce 
-    //printf("Wynik: %d\n", 11 & 9);
-    //printf("Wynik: %d\n", 11 | 9);
-    //printf("Wynik: %d\n", 11 ^ 9);
+    //printf("Wynik: %d\n", 45 << 7); // przesuniecie liczby binarnej o dana liczbe miejsc 
+    //printf("Wynik: %d\n", 36 >> 2); // przesuniecie liczby binarnej o dana liczbe miejsce 
+    //printf("Wynik: %d\n", 72 & 54);
+    //printf("Wynik: %d\n", 84 | 25);
+    //printf("Wynik: %d\n", 27 ^ 17);
+    //printf("%d\n", 20 % 7);
     return 0;
 }
 

@@ -4,6 +4,7 @@
 int temp[3];   //tablica
 int tab[5] = {7, 8, 9, 10, 11};
 char imie[]= "Mateusz amator jezyka C"; //zapisywanie stringa za pomoca tablic
+char *string = "Zapisywanie stringa za pomoca wskaznika";
 
 int i = 0;
 int j = 0; 
@@ -14,6 +15,7 @@ int main()
 {  
     printf("%s\n", imie); //rzutowanie stringa '%s' za pomoca printf 
     printf("%c\n", proba); //wyswietlenie znaku z tabeli ASCII
+    printf("%s\n", string);
     temp[0] = 10;
     temp[1] = 15;
     temp[2] = 20;
