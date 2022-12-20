@@ -49,10 +49,13 @@ namespace ConsoleWisielec
                     continue;
                 }
             }
-
             if (szanse == 0)
-                Console.WriteLine("Przegrałeś wiszisz na szubienicy!");
+                Console.WriteLine("Przegrałeś wiszisz na szubienic");
+
+            Console.WriteLine("Wcisnij dowolny klawisz aby wyjsc");
+            Console.ReadLine();
         }
     }
+    
 
 }
