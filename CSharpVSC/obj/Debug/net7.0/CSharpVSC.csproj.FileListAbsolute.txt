@@ -1,0 +1,15 @@
+C:\Git\CV\CSharpVSC\bin\Debug\net7.0\CSharpVSC.exe
+C:\Git\CV\CSharpVSC\bin\Debug\net7.0\CSharpVSC.deps.json
+C:\Git\CV\CSharpVSC\bin\Debug\net7.0\CSharpVSC.runtimeconfig.json
+C:\Git\CV\CSharpVSC\bin\Debug\net7.0\CSharpVSC.dll
+C:\Git\CV\CSharpVSC\bin\Debug\net7.0\CSharpVSC.pdb
+C:\Git\CV\CSharpVSC\obj\Debug\net7.0\CSharpVSC.csproj.AssemblyReference.cache
+C:\Git\CV\CSharpVSC\obj\Debug\net7.0\CSharpVSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CV\CSharpVSC\obj\Debug\net7.0\CSharpVSC.AssemblyInfoInputs.cache
+C:\Git\CV\CSharpVSC\obj\Debug\net7.0\CSharpVSC.AssemblyInfo.cs
+C:\Git\CV\CSharpVSC\obj\Debug\net7.0\CSharpVSC.csproj.CoreCompileInputs.cache
+C:\Git\CV\CSharpVSC\obj\Debug\net7.0\CSharpVSC.dll
+C:\Git\CV\CSharpVSC\obj\Debug\net7.0\refint\CSharpVSC.dll
+C:\Git\CV\CSharpVSC\obj\Debug\net7.0\CSharpVSC.pdb
+C:\Git\CV\CSharpVSC\obj\Debug\net7.0\CSharpVSC.genruntimeconfig.cache
+C:\Git\CV\CSharpVSC\obj\Debug\net7.0\ref\CSharpVSC.dll

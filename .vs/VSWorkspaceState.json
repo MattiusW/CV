@@ -3,11 +3,12 @@
     "",
     "\\C#",
     "\\C#\\Projects_VS",
-    "\\C#\\Projects_VS\\ConsoleKamienPapierNozyce",
-    "\\C#\\Projects_VS\\ConsoleKamienPapierNozyce\\ConsoleKamienPapierNozyce",
-    "\\C#\\Projects_VS\\ConsolePierwszyProjektCs",
-    "\\C#\\Projects_VS\\ConsolePierwszyProjektCs\\ConsolePierwszyProjektCs"
+    "\\C#\\Projects_VS\\ConsoleWisielec\\ConsoleWisielec",
+    "\\C#\\Projects_VS\\ConsoleWisielec\\ConsoleWisielec\\bin",
+    "\\C#\\Projects_VS\\ConsoleWisielec\\ConsoleWisielec\\obj",
+    "\\C#\\Projects_VS\\ConsoleWisielec\\ConsoleWisielec\\obj\\Debug\\net6.0\\refint",
+    "\\ConsoleWisielec"
   ],
-  "SelectedNode": "\\C#\\Projects_VS\\ConsoleKamienPapierNozyce\\ConsoleKamienPapierNozyce\\ConsoleKamienPapierNozyce.csproj",
+  "SelectedNode": "\\C#\\Projects_VS\\ConsoleWisielec",
   "PreviewInSolutionExplorer": false
 }

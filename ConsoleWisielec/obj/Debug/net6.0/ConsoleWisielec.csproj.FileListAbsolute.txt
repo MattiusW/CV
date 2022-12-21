@@ -1,0 +1,15 @@
+C:\Git\CV\ConsoleWisielec\bin\Debug\net6.0\ConsoleWisielec.exe
+C:\Git\CV\ConsoleWisielec\bin\Debug\net6.0\ConsoleWisielec.deps.json
+C:\Git\CV\ConsoleWisielec\bin\Debug\net6.0\ConsoleWisielec.runtimeconfig.json
+C:\Git\CV\ConsoleWisielec\bin\Debug\net6.0\ConsoleWisielec.dll
+C:\Git\CV\ConsoleWisielec\bin\Debug\net6.0\ConsoleWisielec.pdb
+C:\Git\CV\ConsoleWisielec\obj\Debug\net6.0\ConsoleWisielec.csproj.AssemblyReference.cache
+C:\Git\CV\ConsoleWisielec\obj\Debug\net6.0\ConsoleWisielec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CV\ConsoleWisielec\obj\Debug\net6.0\ConsoleWisielec.AssemblyInfoInputs.cache
+C:\Git\CV\ConsoleWisielec\obj\Debug\net6.0\ConsoleWisielec.AssemblyInfo.cs
+C:\Git\CV\ConsoleWisielec\obj\Debug\net6.0\ConsoleWisielec.csproj.CoreCompileInputs.cache
+C:\Git\CV\ConsoleWisielec\obj\Debug\net6.0\ConsoleWisielec.dll
+C:\Git\CV\ConsoleWisielec\obj\Debug\net6.0\refint\ConsoleWisielec.dll
+C:\Git\CV\ConsoleWisielec\obj\Debug\net6.0\ConsoleWisielec.pdb
+C:\Git\CV\ConsoleWisielec\obj\Debug\net6.0\ConsoleWisielec.genruntimeconfig.cache
+C:\Git\CV\ConsoleWisielec\obj\Debug\net6.0\ref\ConsoleWisielec.dll
