@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\CV\\C#\\Projects_VS\\ConsoleNajwieksza\\ConsoleNajwieksza\\ConsoleNajwieksza.csproj",
-      "projectName": "ConsoleNajwieksza",
-      "projectPath": "C:\\Git\\CV\\C#\\Projects_VS\\ConsoleNajwieksza\\ConsoleNajwieksza\\ConsoleNajwieksza.csproj",
+      "projectUniqueName": "C:\\Git\\CV\\C#\\Projects_VS\\ConsoleNajwieksza\\ConsoleNajwieksza\\ConsoleMinMax.csproj",
+      "projectName": "ConsoleMinMax",
+      "projectPath": "C:\\Git\\CV\\C#\\Projects_VS\\ConsoleNajwieksza\\ConsoleNajwieksza\\ConsoleMinMax.csproj",
       "packagesPath": "C:\\Users\\Mattius\\.nuget\\packages\\",
       "outputPath": "C:\\Git\\CV\\C#\\Projects_VS\\ConsoleNajwieksza\\ConsoleNajwieksza\\obj\\",
       "projectStyle": "PackageReference",

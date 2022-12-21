@@ -1,0 +1,15 @@
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\bin\Debug\net6.0\ConsoleMinMax.exe
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\bin\Debug\net6.0\ConsoleMinMax.deps.json
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\bin\Debug\net6.0\ConsoleMinMax.runtimeconfig.json
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\bin\Debug\net6.0\ConsoleMinMax.dll
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\bin\Debug\net6.0\ConsoleMinMax.pdb
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\obj\Debug\net6.0\ConsoleMinMax.csproj.AssemblyReference.cache
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\obj\Debug\net6.0\ConsoleMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\obj\Debug\net6.0\ConsoleMinMax.AssemblyInfoInputs.cache
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\obj\Debug\net6.0\ConsoleMinMax.AssemblyInfo.cs
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\obj\Debug\net6.0\ConsoleMinMax.csproj.CoreCompileInputs.cache
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\obj\Debug\net6.0\ConsoleMinMax.dll
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\obj\Debug\net6.0\refint\ConsoleMinMax.dll
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\obj\Debug\net6.0\ConsoleMinMax.pdb
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\obj\Debug\net6.0\ConsoleMinMax.genruntimeconfig.cache
+C:\Git\CV\C#\Projects_VS\ConsoleNajwieksza\ConsoleNajwieksza\obj\Debug\net6.0\ref\ConsoleMinMax.dll
