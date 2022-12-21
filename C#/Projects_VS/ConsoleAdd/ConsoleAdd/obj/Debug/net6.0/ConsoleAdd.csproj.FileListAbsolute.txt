@@ -1,0 +1,15 @@
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\bin\Debug\net6.0\ConsoleAdd.exe
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\bin\Debug\net6.0\ConsoleAdd.deps.json
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\bin\Debug\net6.0\ConsoleAdd.runtimeconfig.json
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\bin\Debug\net6.0\ConsoleAdd.dll
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\bin\Debug\net6.0\ConsoleAdd.pdb
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\obj\Debug\net6.0\ConsoleAdd.csproj.AssemblyReference.cache
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\obj\Debug\net6.0\ConsoleAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\obj\Debug\net6.0\ConsoleAdd.AssemblyInfoInputs.cache
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\obj\Debug\net6.0\ConsoleAdd.AssemblyInfo.cs
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\obj\Debug\net6.0\ConsoleAdd.csproj.CoreCompileInputs.cache
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\obj\Debug\net6.0\ConsoleAdd.dll
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\obj\Debug\net6.0\refint\ConsoleAdd.dll
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\obj\Debug\net6.0\ConsoleAdd.pdb
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\obj\Debug\net6.0\ConsoleAdd.genruntimeconfig.cache
+C:\Git\CV\C#\Projects_VS\ConsoleAdd\ConsoleAdd\obj\Debug\net6.0\ref\ConsoleAdd.dll
