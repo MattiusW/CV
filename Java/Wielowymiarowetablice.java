@@ -24,8 +24,8 @@ public class Wielowymiarowetablice
     int[][] tab2 =
     {
         {0, 1, 2},
-	{3, 4, 5},  //Tworzenie gotowej tabilcy wielowymiarowej
-	{6, 7, 8}
+	      {3, 4, 5},  //Tworzenie gotowej tabilcy wielowymiarowej
+	      {6, 7, 8}
     }; 
 
     System.out.println(tab[3][2]);
