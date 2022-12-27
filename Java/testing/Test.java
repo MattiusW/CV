@@ -20,8 +20,6 @@ public class Test
             System.out.println("False");
         
         System.out.println(word.indexOf(letter)); // Return index of letter
-
-        }
-    
+        
     }
 }
