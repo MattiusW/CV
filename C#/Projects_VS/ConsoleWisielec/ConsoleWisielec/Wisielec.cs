@@ -17,7 +17,7 @@ namespace ConsoleWisielec
             int los = rnd.Next(0, lista.Length);
             string x = lista[los];
             //Console.WriteLine(x);     //sprawdzanie co wylosowalo
-            var rozdzielone_slowo = x.ToCharArray();
+            var rozdzielone_slowo = x.ToCharArray(); // Rozdzielanie slowa
             gra(rozdzielone_slowo);
         }
         static void gra(char[] slowo)
