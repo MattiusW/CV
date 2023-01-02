@@ -3,7 +3,7 @@
 #Tworzenie zmiennej odbywa sie bez znaku $ ale odwolanie sie do zmiennej nastepuje za pomoca znaku $
 for ((i=0; i<=10 ;i=$i+1))
 do
-    echo "Liczba: $i";
+    echo "Liczba: $i" > przekierowanieInadpisanie.txt; #Jeden > strumien nadpisuje dane
 done
 
 echo "Podaj liczbe startowa (wlaczajac): ";
@@ -14,5 +14,5 @@ read stop;
 
 for ((j=$start; j<=$stop ;j=$j+1))
 do
-    echo "Liczba: $j";
+    echo "Liczba: $j" >> przekierowanieIdopisanie.txt; #Dwa >> strumienie dopisuja dane
 done

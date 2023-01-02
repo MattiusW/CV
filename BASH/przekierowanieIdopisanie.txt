@@ -1,0 +1,6 @@
+Liczba: 0
+Liczba: 1
+Liczba: 2
+Liczba: 3
+Liczba: 4
+Liczba: 5
