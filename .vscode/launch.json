@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RachunekBankowy",
+            "request": "launch",
+            "mainClass": "RachunekBankowy",
+            "projectName": "CV_8c5744a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntegerSet",
+            "request": "launch",
+            "mainClass": "IntegerSet",
+            "projectName": "CV_8c5744a8"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "classinside.Main",
